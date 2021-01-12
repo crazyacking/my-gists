@@ -1,0 +1,235 @@
+b9360d200d54b213b9418a5777b1fb07 git://gist.github.com/b9360d200d54b213b9418a5777b1fb07.git NGINX config for SSL with Let's Encrypt certs
+752a89651803e638f24d2878192a581d git://gist.github.com/752a89651803e638f24d2878192a581d.git Enable MFA for s3 bucket
+90b3dea1b7996dd2e68bb76e7c35af2b git://gist.github.com/90b3dea1b7996dd2e68bb76e7c35af2b.git ruby diff 2 yaml files and awesome print
+f657628b3b527b70196b8d007397b75d git://gist.github.com/f657628b3b527b70196b8d007397b75d.git install stress on amazon linux 2
+084bba1d23d444d4521a4d1aa587826f git://gist.github.com/084bba1d23d444d4521a4d1aa587826f.git Import lets encrypt cert to aws certificate manager in renew hook
+05239cd19c5efebf569e3bd80f8a7bf7 git://gist.github.com/05239cd19c5efebf569e3bd80f8a7bf7.git sample springboot application
+5ab9edf7816ec0c2f1427ae172205233 git://gist.github.com/5ab9edf7816ec0c2f1427ae172205233.git SAML Response Decrypter
+98abe0039790dda8aed45e4b7364d602 git://gist.github.com/98abe0039790dda8aed45e4b7364d602.git arm cli dependency list
+8a0a64408793dc7c4c1e7bf065ba98aa git://gist.github.com/8a0a64408793dc7c4c1e7bf065ba98aa.git amory cli dinghyfile render notes
+922d6d9c7dba2935d7663b2e49a214e8 git://gist.github.com/922d6d9c7dba2935d7663b2e49a214e8.git curl as an ldap client
+68cc5f3dbc5d09cfb30808f4c75798f2 git://gist.github.com/68cc5f3dbc5d09cfb30808f4c75798f2.git Format JSON bookmarklet
+c312d6e2feb802a66c9e93ccd3caf93d git://gist.github.com/c312d6e2feb802a66c9e93ccd3caf93d.git gluster split brain scenario troubleshooting
+5cfdc6691680affd1b4091c0125c83d1 git://gist.github.com/5cfdc6691680affd1b4091c0125c83d1.git PIR  Template
+68f7c8b189c710de875d2adf9207cd90 git://gist.github.com/68f7c8b189c710de875d2adf9207cd90.git Spinnaker + AWS Terraform
+433c60ec8b21cedf30741dcd3b7d6b5a git://gist.github.com/433c60ec8b21cedf30741dcd3b7d6b5a.git rhel subscription manager notes
+b3acf05367ba0438b888c913ce408e3e git://gist.github.com/b3acf05367ba0438b888c913ce408e3e.git openshift4 boot strap ignition configs
+02be52689e582a14083548a1e4de9851 git://gist.github.com/02be52689e582a14083548a1e4de9851.git python3 HTTP Echo Server with directory browsing
+25bd0957175744b4274aaae2a304c0e6 git://gist.github.com/25bd0957175744b4274aaae2a304c0e6.git openshift4 default resources
+1bc427a2f973d24cb76203ec51420761 git://gist.github.com/1bc427a2f973d24cb76203ec51420761.git certbot letsencrypt tricks
+5f6b0c2d096fc963bfbdfbd72e4fded6 git://gist.github.com/5f6b0c2d096fc963bfbdfbd72e4fded6.git splunk query tricks
+687b18fe60879de174c1d75080e3610b git://gist.github.com/687b18fe60879de174c1d75080e3610b.git curl tricks
+73308e418714a4d0e41ee156f589f9d6 git://gist.github.com/73308e418714a4d0e41ee156f589f9d6.git container basics cgroups namespaces
+b4ff14cb61c68b2f7b204b9f0d41d79c git://gist.github.com/b4ff14cb61c68b2f7b204b9f0d41d79c.git Python script for returning environment facts in json format based on the requested network.
+b289411d06411486441eae6da50094ad git://gist.github.com/b289411d06411486441eae6da50094ad.git My Openshift Cheatsheet
+6f7b77d05030fc5c8fb8fe7a4f3e725c git://gist.github.com/6f7b77d05030fc5c8fb8fe7a4f3e725c.git minikube tips & tricks
+99cb1a82449847cd5dd37d031fb48f95 git://gist.github.com/99cb1a82449847cd5dd37d031fb48f95.git Tunnel TCP traffic via socat. #socat
+937be13b08395101d7201883d7410a0d git://gist.github.com/937be13b08395101d7201883d7410a0d.git An example with an oneshot service on systemd. #systemd #systemd.service #oneshot
+dc8c02801be007a6cb2f2b41d259380f git://gist.github.com/dc8c02801be007a6cb2f2b41d259380f.git Basic HTTP Authentication for CloudFront with Lambda@Edge
+9abe5b65814571d6fb706787fa35c121 git://gist.github.com/9abe5b65814571d6fb706787fa35c121.git EKS Tips & Tricks
+5698fe8f3f337ed29a1054eeb03f1d40 git://gist.github.com/5698fe8f3f337ed29a1054eeb03f1d40.git Basic EKS lab to setup an new cluster
+975171cf92cf20a0c985175e289300e5 git://gist.github.com/975171cf92cf20a0c985175e289300e5.git Playing with kubectl output
+e88bc22ca1757ecdf0bf28b03335a23f git://gist.github.com/e88bc22ca1757ecdf0bf28b03335a23f.git Linux: Understanding the Memory Layout of Linux Executables
+c0944b776cbf50ffc6d248448363b290 git://gist.github.com/c0944b776cbf50ffc6d248448363b290.git audit search / trace commands
+5606a62508327d779901a8401409b791 git://gist.github.com/5606a62508327d779901a8401409b791.git Linux Auditd Best Practice Configuration
+04fbf472ca44b4f40c906d61557404dd git://gist.github.com/04fbf472ca44b4f40c906d61557404dd.git Ansible playbook which creates instances and tag volumes
+5017ad6d5571c105ae144e3c1e1a2df9 git://gist.github.com/5017ad6d5571c105ae144e3c1e1a2df9.git Curl tricks to measure http connection times
+b234483fc1c6573a7b22c6c1e1d845fe git://gist.github.com/b234483fc1c6573a7b22c6c1e1d845fe.git Resize a Hard Disk for a Virtual Machine provisioned using Vagrant from a Linux base box to run using VirutalBox.
+49e7ad7ac05edf7b0522d1cf98fdc99b git://gist.github.com/49e7ad7ac05edf7b0522d1cf98fdc99b.git git api tricks to clone all repos
+09fde2a751a36fc702d8f049d6c5e60d git://gist.github.com/09fde2a751a36fc702d8f049d6c5e60d.git kubernetes kops cluster in aws
+5d05b058a8c5204b9549c6246d431ceb git://gist.github.com/5d05b058a8c5204b9549c6246d431ceb.git How to update VirtualBox Guest Additions with vagrant
+33f35cba1e5df1773a02570355891479 git://gist.github.com/33f35cba1e5df1773a02570355891479.git openshift tag and imagestreams
+8a3235dc6f613ab869d0babdb4692241 git://gist.github.com/8a3235dc6f613ab869d0babdb4692241.git openshift loop through daemonsets and redeploy again
+9a8075a649b60b7f69602d9e6feac957 git://gist.github.com/9a8075a649b60b7f69602d9e6feac957.git python ascii pretty table
+cb0644164c2e05d105c086ce39fd3aaa git://gist.github.com/cb0644164c2e05d105c086ce39fd3aaa.git Ruby one-liners
+a110377786d8f0740c55efd918df9056 git://gist.github.com/a110377786d8f0740c55efd918df9056.git Perl One-Liners
+03c2bf0caffa9c2de23bd9a50b9a9de0 git://gist.github.com/03c2bf0caffa9c2de23bd9a50b9a9de0.git python / bash based dmesg human readable timestamps
+54c0cf61d5310dd186108a8e2afef4fb git://gist.github.com/54c0cf61d5310dd186108a8e2afef4fb.git selinux custom policy
+52162ed1abc1b043cb2fe35c821570f6 git://gist.github.com/52162ed1abc1b043cb2fe35c821570f6.git custom splunk journald logrotate
+2ea6ff642c6e8a5d61f398f02f1900fe git://gist.github.com/2ea6ff642c6e8a5d61f398f02f1900fe.git docker registry tricks with skopeo and curl
+6c6fc737b715fb62205d0e47df9144ac git://gist.github.com/6c6fc737b715fb62205d0e47df9144ac.git openscap image annotation policy
+3e1e23bbe5d3ac2e6ae786c079143319 git://gist.github.com/3e1e23bbe5d3ac2e6ae786c079143319.git openshift secrets encryption enhanced with openssl
+35f61371ab74f63cbf34667d0add0cbc git://gist.github.com/35f61371ab74f63cbf34667d0add0cbc.git Importing a VM into AWS EC2 from S3 Bucket
+b69b02d00022a25bce0c856f9e226893 git://gist.github.com/b69b02d00022a25bce0c856f9e226893.git Ansible Filter to Validate a IP address and give out the corresponding zone.
+565dc060d2d5837f7349be9c0a1ea61b git://gist.github.com/565dc060d2d5837f7349be9c0a1ea61b.git openldap proxy to AD with TLS
+1d4c6acd243d9f371ccbfabce88c97ec git://gist.github.com/1d4c6acd243d9f371ccbfabce88c97ec.git virtualbox vms without GUI
+e96bc3865eec6bbe4ee61c95e8f2463a git://gist.github.com/e96bc3865eec6bbe4ee61c95e8f2463a.git Jenkins delete dead slave nodes via script console
+bc1b702ef3af23f48bdeafc532c01077 git://gist.github.com/bc1b702ef3af23f48bdeafc532c01077.git Running SBT with a Nexus proxy with authentication
+79bddbf4af9b6d13d590670c40fec3e0 git://gist.github.com/79bddbf4af9b6d13d590670c40fec3e0.git openshift cli tricks - using go templates
+aa31e0af6fed95811f010f4c18572f55 git://gist.github.com/aa31e0af6fed95811f010f4c18572f55.git My Openshift Cheatsheet
+505bd552e074c665167d9da1ed4c9e92 git://gist.github.com/505bd552e074c665167d9da1ed4c9e92.git How to recover a git branch you accidentally deleted
+2fd477ef84e65a4050e0b7dbfb31e050 git://gist.github.com/2fd477ef84e65a4050e0b7dbfb31e050.git tmux print all available colors
+a947d89f5bb7e27358511b18e4c487fa git://gist.github.com/a947d89f5bb7e27358511b18e4c487fa.git Ansible custom fact for ethtool
+0dcdab36e5ef46f82718bedc0cb62455 git://gist.github.com/0dcdab36e5ef46f82718bedc0cb62455.git openshift rest api login / json patch via curl
+0597a6bbf9c3f4c1c043ae6e4d88d339 git://gist.github.com/0597a6bbf9c3f4c1c043ae6e4d88d339.git sysdig cheat sheet
+03239d74a6e8f89bb38f01eaae21b373 git://gist.github.com/03239d74a6e8f89bb38f01eaae21b373.git java tls debug explaination
+474d112e3c3402ea39a1f15944a57320 git://gist.github.com/474d112e3c3402ea39a1f15944a57320.git openshift detect templates with null objects
+d06932fb8dbb3585f668357413ef4994 git://gist.github.com/d06932fb8dbb3585f668357413ef4994.git git cherry pick commit / range of commits
+efe2087fd9bdc77c4c9cc1cb7b0d7811 git://gist.github.com/efe2087fd9bdc77c4c9cc1cb7b0d7811.git oracle sqlplus client command line
+7ccbd5abc4ded37ecdbc8fa46966b7e8 git://gist.github.com/7ccbd5abc4ded37ecdbc8fa46966b7e8.git AWS - Upload files to S3 via curl
+4be496cd2f1aadbf6975bfba74015fab git://gist.github.com/4be496cd2f1aadbf6975bfba74015fab.git python ldaps script
+c5876f66d81e5e493364001749af0741 git://gist.github.com/c5876f66d81e5e493364001749af0741.git dnsmasq smart domain recursive lookup with multiple backend servers
+f2d2057ff348c2fa2c973ab3e7c5078e git://gist.github.com/f2d2057ff348c2fa2c973ab3e7c5078e.git sonarqube webhooks url
+4da87821986343829a99df1207a99a69 git://gist.github.com/4da87821986343829a99df1207a99a69.git python xml prettyprint
+2f5080ae2f8e3d5ba3e557a339b6d7a1 git://gist.github.com/2f5080ae2f8e3d5ba3e557a339b6d7a1.git Update Ansible Tower licence via REST api
+1762636f788b14425c42f16d87dbc229 git://gist.github.com/1762636f788b14425c42f16d87dbc229.git python udp socket client / server example
+bfd95575ce34af6bd3317611dc04006c git://gist.github.com/bfd95575ce34af6bd3317611dc04006c.git python tcp socket client / server examples
+cc1b8923d2b8026ad2359e4e9e600662 git://gist.github.com/cc1b8923d2b8026ad2359e4e9e600662.git python sniffer with root privileges
+7331d3b649c90a5bbf21525f1c56e0a1 git://gist.github.com/7331d3b649c90a5bbf21525f1c56e0a1.git Create a local docker registry from backup
+1bd15356c4717a53f0c0c9040d3ec197 git://gist.github.com/1bd15356c4717a53f0c0c9040d3ec197.git ansible playbook exclude selective hosts
+cb5ef4f9fbfc3d5abcb5f804769724b8 git://gist.github.com/cb5ef4f9fbfc3d5abcb5f804769724b8.git static server nodejs
+17fd0c12bfd836cd96088c450dcbf627 git://gist.github.com/17fd0c12bfd836cd96088c450dcbf627.git LDAP Search / with TLS
+bfc84c34540da2ef5af73643ffa41169 git://gist.github.com/bfc84c34540da2ef5af73643ffa41169.git atomic os custom build - centos 7
+6a7ab6a4ec3c21d9890f3c40eb983057 git://gist.github.com/6a7ab6a4ec3c21d9890f3c40eb983057.git creating linux network namespaces
+37048ba536575277f5f4d26813d69489 git://gist.github.com/37048ba536575277f5f4d26813d69489.git ansible custom filters demo
+c640ab9d8eb3806a22b989581bcbed43 git://gist.github.com/c640ab9d8eb3806a22b989581bcbed43.git use sfdisk to create scripted partitions
+092cc8d61b77676133f6de06f9a48ddd git://gist.github.com/092cc8d61b77676133f6de06f9a48ddd.git ssh authorized_keys force user to login as diff user
+fbd1c896fdb4ccd44f14c7a49af84f39 git://gist.github.com/fbd1c896fdb4ccd44f14c7a49af84f39.git snippet to show usage of dhcp-event (don't forget to set apparmor to allowing (complain) mode)
+a38a13e15a9281111adbc521c282414d git://gist.github.com/a38a13e15a9281111adbc521c282414d.git tcp proxy with netcat and socat
+bff7ad7a7ca532205c24cf4f57a29e86 git://gist.github.com/bff7ad7a7ca532205c24cf4f57a29e86.git python password generator
+87dc9b894411c7229b6f7bd405328ef6 git://gist.github.com/87dc9b894411c7229b6f7bd405328ef6.git Simple script to scrape the default grid Olympic medals table on NBC's site and dump the result as JSON
+9056eb0862fdf2e8b8755b3c6ce40af1 git://gist.github.com/9056eb0862fdf2e8b8755b3c6ce40af1.git Puppetdb query examples
+e359749482ce40f7fe9db8ccd5a0cc64 git://gist.github.com/e359749482ce40f7fe9db8ccd5a0cc64.git Putty Terminal Themes - Monokai, Solarized Dark/Light
+2913a9a37bbaa298c1c1a78f3134ce6d git://gist.github.com/2913a9a37bbaa298c1c1a78f3134ce6d.git Google Calendar Rules - Repeat Last Workday / Last Day / First Workday of the Month
+0d740263e674057364a7ae4d95b18842 git://gist.github.com/0d740263e674057364a7ae4d95b18842.git How to use Vagrant.has_plugin? -> small list of example plugins
+2008c19971ed3ca7f560adfca7b50234 git://gist.github.com/2008c19971ed3ca7f560adfca7b50234.git find exec 2 commands at same time
+53a4d10071a174bf24cdfd56797075bb git://gist.github.com/53a4d10071a174bf24cdfd56797075bb.git quick and dirty rsync daemon for internal sync
+e857f2b2fdbe5fbfc7ab45d450ce1d81 git://gist.github.com/e857f2b2fdbe5fbfc7ab45d450ce1d81.git python dictionary to flat list and tuple
+d7079da7aec98538a01eca6c1b6cfef6 git://gist.github.com/d7079da7aec98538a01eca6c1b6cfef6.git Vagrant using Json data
+7c2a94975c8a3b161eb1905c292d7255 git://gist.github.com/7c2a94975c8a3b161eb1905c292d7255.git casssandra troubleshooting tricks
+9258f35cb604d816daad466ad8d49f3e git://gist.github.com/9258f35cb604d816daad466ad8d49f3e.git python oop simple concepts
+7a49333fc0494cf1be816e13f444b6fc git://gist.github.com/7a49333fc0494cf1be816e13f444b6fc.git Example configuration file for supervisord.conf
+af954e09e0e95810fa4a968996e77f1c git://gist.github.com/af954e09e0e95810fa4a968996e77f1c.git bash history log all commands to syslog
+478ddd135e86bb0d88525b8f7a97a8f6 git://gist.github.com/478ddd135e86bb0d88525b8f7a97a8f6.git python graphing load average example
+13314878855cb86d7ea72852469c0c92 git://gist.github.com/13314878855cb86d7ea72852469c0c92.git caddy windows webserver batch file
+c976772d724a631106c6f3adc2647cfa git://gist.github.com/c976772d724a631106c6f3adc2647cfa.git josepheus problem in python using deque and oop
+ffbc7d0163acf238e66e5648c106b795 git://gist.github.com/ffbc7d0163acf238e66e5648c106b795.git bash wait demo
+9df08b7948f5ed9a60e8da4c2d2785e7 git://gist.github.com/9df08b7948f5ed9a60e8da4c2d2785e7.git puppet-rspec for class with dependencies
+b2a261f2113d50e788f61f8d5a6c2e22 git://gist.github.com/b2a261f2113d50e788f61f8d5a6c2e22.git python2 / python3 portable environments with pip packages using virtualenv
+51da8234a17b0d6871dfc8b68ce5f7f6 git://gist.github.com/51da8234a17b0d6871dfc8b68ce5f7f6.git geodjango puppet
+142b56e4c643df331f288c368de282d0 git://gist.github.com/142b56e4c643df331f288c368de282d0.git kairosdb drop old data monthly
+eb76a35b3cdc9b38b050b1dc8cd99b92 git://gist.github.com/eb76a35b3cdc9b38b050b1dc8cd99b92.git ubuntu create custom repo with multiple versions
+d2f2401cc1526b602ea71553084e176e git://gist.github.com/d2f2401cc1526b602ea71553084e176e.git Git repo ->  bare repo -> new repo
+5d1a93a448ebb305e5717be67e79257a git://gist.github.com/5d1a93a448ebb305e5717be67e79257a.git Docker Cheat Sheet
+2426b0cbb1576eec99d2365f3abbfaeb git://gist.github.com/2426b0cbb1576eec99d2365f3abbfaeb.git Ruby classes
+92f7f9b4c67591a8007c0397b2cb0dae git://gist.github.com/92f7f9b4c67591a8007c0397b2cb0dae.git puppet rspec display/print all available resources in module
+0053ec42243938ece76b27808aaccaf6 git://gist.github.com/0053ec42243938ece76b27808aaccaf6.git ruby find kaprekar numbers in a given range
+8b2cd2751a3dc23ac6151124283c8700 git://gist.github.com/8b2cd2751a3dc23ac6151124283c8700.git Ruby Monk Primer    My solutions to all problems in ascending order
+fec592879256cee5f45579abe3e9c262 git://gist.github.com/fec592879256cee5f45579abe3e9c262.git giftube – Generates an animated gif from a YouTube url.
+16c463a1edfe89fb319ff2ae37deeb67 git://gist.github.com/16c463a1edfe89fb319ff2ae37deeb67.git code for https://twitter.com/speedtest0r
+f4e98228e0c5b8be7901caeef8cc2c66 git://gist.github.com/f4e98228e0c5b8be7901caeef8cc2c66.git ruby DATA and __END__ heredoc method
+f1e20d5a50282bb08ebfd72a866a55f1 git://gist.github.com/f1e20d5a50282bb08ebfd72a866a55f1.git sorted hash in puppet templates
+9be119c2b53f0f69fcc0151fd2dad67e git://gist.github.com/9be119c2b53f0f69fcc0151fd2dad67e.git ssh port knock script
+ce3f43796c4047dcbf11add2651bc42b git://gist.github.com/ce3f43796c4047dcbf11add2651bc42b.git convert yaml to json - multiple languages snippets
+4ed2bc46d6796ca5723198dda07e365f git://gist.github.com/4ed2bc46d6796ca5723198dda07e365f.git RainerScript version of /etc/rsyslog.conf for Ubuntu with rsyslog 8+
+c66a75ff85d9f4312b6e04575c8fa1b4 git://gist.github.com/c66a75ff85d9f4312b6e04575c8fa1b4.git powershell command line parameters
+cc2e12d480d7502d67e69be536cf665c git://gist.github.com/cc2e12d480d7502d67e69be536cf665c.git breaking down lambdas into meaningful functions
+991a225a5b2a450ef7f09449be8f67d2 git://gist.github.com/991a225a5b2a450ef7f09449be8f67d2.git Windows Server 2012 R2 Autounattend.xml
+c6588c94a090425fa07a5bf73ffad05c git://gist.github.com/c6588c94a090425fa07a5bf73ffad05c.git powershell configure windows ip static
+3321fccf74df49d59e02ebd766f6a8f3 git://gist.github.com/3321fccf74df49d59e02ebd766f6a8f3.git Quick iPXE & Windows7-on-iSCSI howto
+d701bee81be7c839a7545ef2a20c6324 git://gist.github.com/d701bee81be7c839a7545ef2a20c6324.git pip download and install manually
+11f7266fbc5c3ab65e3151b9de9b5bdf git://gist.github.com/11f7266fbc5c3ab65e3151b9de9b5bdf.git Simple netstat in Ruby
+8b0470d1af99159f15a2470a3e4fe694 git://gist.github.com/8b0470d1af99159f15a2470a3e4fe694.git reverse shells example
+35c2fb69890bf710136fa385dca4389d git://gist.github.com/35c2fb69890bf710136fa385dca4389d.git vcenter esx_logger defined type wrapper
+0c92107b409ceb7f74f7331d3e716287 git://gist.github.com/0c92107b409ceb7f74f7331d3e716287.git Puppet hash merge and deep merge example ...
+de914c34d1f28c3c8054beaaec25e1b6 git://gist.github.com/de914c34d1f28c3c8054beaaec25e1b6.git Esxi bootstrap script to create the first few vms to build puppet/razor
+549eb9bc1648bd4c9f63591551aba499 git://gist.github.com/549eb9bc1648bd4c9f63591551aba499.git 
+86e431c46bd3f663edf6b965df4aed7d git://gist.github.com/86e431c46bd3f663edf6b965df4aed7d.git proxy.rb
+59af45636ed58b4a9f03827889dd9ed8 git://gist.github.com/59af45636ed58b4a9f03827889dd9ed8.git A template to write a quick daemon as a bash script
+e647d76ef4965ec8bf2aa56481c3bda3 git://gist.github.com/e647d76ef4965ec8bf2aa56481c3bda3.git python flatten list of lists
+4b078e44d89f9e5785eb3d4e34fdbd73 git://gist.github.com/4b078e44d89f9e5785eb3d4e34fdbd73.git 
+877b2a3bf6ae818ce1077684a4e42ad4 git://gist.github.com/877b2a3bf6ae818ce1077684a4e42ad4.git ipxe linux livecd / netinstall menus
+e0fdca342b2a51a8c107cebd59274bc9 git://gist.github.com/e0fdca342b2a51a8c107cebd59274bc9.git python template snippet
+a6aab8e8f55e037f06e39c01689f73a5 git://gist.github.com/a6aab8e8f55e037f06e39c01689f73a5.git Bootstrapping full iPXE native menu with customizable default option with timeout (also includes working Ubuntu 12.04 preseed install)
+76827b554443260c9410b5196bbc5148 git://gist.github.com/76827b554443260c9410b5196bbc5148.git ipxe kickstart over http - dhcp and static configuration
+bb795e2db6d13da0feb698955146a74b git://gist.github.com/bb795e2db6d13da0feb698955146a74b.git ubuntu-trusty-preseed.cfg
+48ef1bb3ff5d308417021e683e4485b4 git://gist.github.com/48ef1bb3ff5d308417021e683e4485b4.git ServerSpec Snippets
+5755ebc0dbbdfea51a3d git://gist.github.com/5755ebc0dbbdfea51a3d.git top 10 tools to troubleshoot in linux
+e4b3b7cb232942f92bbc git://gist.github.com/e4b3b7cb232942f92bbc.git tint2rc
+eb91fd3a040b10cefac0 git://gist.github.com/eb91fd3a040b10cefac0.git my tmux.conf
+f0cb926477fe4d03066e git://gist.github.com/f0cb926477fe4d03066e.git my .gitconfig
+946dfdb635975068018a git://gist.github.com/946dfdb635975068018a.git my .bashrc
+f95a2c30f62212245096 git://gist.github.com/f95a2c30f62212245096.git vimrc
+b41d26b1caa25285269a git://gist.github.com/b41d26b1caa25285269a.git python beautifulsoup commandlinefu
+a44cbb775375e23f36d7 git://gist.github.com/a44cbb775375e23f36d7.git maven tricks
+065874f471929779ed05 git://gist.github.com/065874f471929779ed05.git bash time taken logic script
+42215e05b812a90d70bf git://gist.github.com/42215e05b812a90d70bf.git aliases
+57e7f12a3ede5f8fa1ef git://gist.github.com/57e7f12a3ede5f8fa1ef.git parted script to partition lvm
+1db70b7d168102b50846 git://gist.github.com/1db70b7d168102b50846.git Vagrant File Multi node setup
+2a1404ecb73fb97bca6f git://gist.github.com/2a1404ecb73fb97bca6f.git Example CLI help output for possible re-implementation of boolean flags for begins.
+e05e53c38ceb236b74e1 git://gist.github.com/e05e53c38ceb236b74e1.git python cheatsheet
+c178dbecc80415ccaaa5 git://gist.github.com/c178dbecc80415ccaaa5.git Python cheatsheet
+f5543df35a5099bd3451 git://gist.github.com/f5543df35a5099bd3451.git commandlinefu.com python api parser
+9d758bd6cc148cd2eb7f git://gist.github.com/9d758bd6cc148cd2eb7f.git python jinja2 examples
+8aec44824c4258c960b2 git://gist.github.com/8aec44824c4258c960b2.git ansible dynamic inventory python demo
+2c027f8fd70333a8288e git://gist.github.com/2c027f8fd70333a8288e.git Ansible dynamic inventory bash demo
+1558dc41083c5d536395 git://gist.github.com/1558dc41083c5d536395.git gitconfig
+72d556c32e5310777bb7 git://gist.github.com/72d556c32e5310777bb7.git python shell history and tab completion
+e5256f2da00d8e976e85 git://gist.github.com/e5256f2da00d8e976e85.git python dictionary sort by key/value
+fcb95581ba30904d4320 git://gist.github.com/fcb95581ba30904d4320.git python sort the dictionary list with lambda
+fdb2d6dfcc9b316ef623 git://gist.github.com/fdb2d6dfcc9b316ef623.git python json read and sort dictionary list
+c73907e83e6cdc06f169 git://gist.github.com/c73907e83e6cdc06f169.git packer startup script.
+4ea57fe56365fbec7cf6 git://gist.github.com/4ea57fe56365fbec7cf6.git openssh - disable scp and log all sftp connections
+a87c66d320e42da58f78 git://gist.github.com/a87c66d320e42da58f78.git openssh log ssh tunnels for auditing
+432e80c99b4e05440f1e git://gist.github.com/432e80c99b4e05440f1e.git bash rename group of files extension
+e94a42a0f63453215b2a git://gist.github.com/e94a42a0f63453215b2a.git Simple Maintenance Page
+4ece17447681cf1de335 git://gist.github.com/4ece17447681cf1de335.git python script to parse activemq queue
+eca9442ff76649b057ab git://gist.github.com/eca9442ff76649b057ab.git Decrypting Jenkins Password
+1f10c3e91441b60683f4 git://gist.github.com/1f10c3e91441b60683f4.git python json lint
+75ca9490862d80dc1693 git://gist.github.com/75ca9490862d80dc1693.git mail via smtp relay
+51d42005694c76286e80 git://gist.github.com/51d42005694c76286e80.git mirror maven repository via wget
+0da7a4410569c0fb02a9 git://gist.github.com/0da7a4410569c0fb02a9.git curl download oracle jdk1.8
+1d458d4be1a1c4c5db82 git://gist.github.com/1d458d4be1a1c4c5db82.git curl based file upload / file post behind proxy
+834ea8468b3994715f19 git://gist.github.com/834ea8468b3994715f19.git python loop lists
+d8d7d7b4d1947369d030 git://gist.github.com/d8d7d7b4d1947369d030.git python nested for loop with list of lists
+36a0a75ed7512b24c46f git://gist.github.com/36a0a75ed7512b24c46f.git python enumerate function demo
+70b65ccbdce01eb8a5a0 git://gist.github.com/70b65ccbdce01eb8a5a0.git 
+20ce0166b6bbc330e1bb git://gist.github.com/20ce0166b6bbc330e1bb.git Centos updates via rsync behind proxy
+2777c284f263cbc32ce2 git://gist.github.com/2777c284f263cbc32ce2.git git squash commit - demo
+1803dfec0e4a5e488dd3 git://gist.github.com/1803dfec0e4a5e488dd3.git git squash multiple commits with rebase
+c3dd34d05e8444aa02ef git://gist.github.com/c3dd34d05e8444aa02ef.git perl based htpasswd generator
+3d7a08ec646d7b8f5c81 git://gist.github.com/3d7a08ec646d7b8f5c81.git YAML Lint in Ruby / Python
+045b86212e3be62e8a04 git://gist.github.com/045b86212e3be62e8a04.git change AD password from linux machine
+58bd9b69134791c64255 git://gist.github.com/58bd9b69134791c64255.git Jenkins  REST API Automation via curl
+ed95f73542e8d5232d83 git://gist.github.com/ed95f73542e8d5232d83.git keybase.md
+0d2d1333652f7e56c4b3 git://gist.github.com/0d2d1333652f7e56c4b3.git 
+1c54a2f6fda80516084f git://gist.github.com/1c54a2f6fda80516084f.git java/jdk download commandline
+520eb44e3b963ced00eb git://gist.github.com/520eb44e3b963ced00eb.git SFTP Wrapper to Log User Sessions along with file transfer logs
+7e1d93bf88804fdc659c git://gist.github.com/7e1d93bf88804fdc659c.git Iptables SNAT vs DNAT tip
+f5fd7483967300273eed git://gist.github.com/f5fd7483967300273eed.git debugging dhcp session with tcpdump/dhcpdump
+b53a5d3558b3101f34de git://gist.github.com/b53a5d3558b3101f34de.git Squid logfile timestamp conversion
+08f4a199d41f44029ae1 git://gist.github.com/08f4a199d41f44029ae1.git openssh sftp/chroot setup
+0f11e936b4cfe1e7e45b git://gist.github.com/0f11e936b4cfe1e7e45b.git proftpd xferlog logsplit script
+f4945395605b25177789 git://gist.github.com/f4945395605b25177789.git proftpd shared ACL Setup
+36bc739c6c69171f88ee git://gist.github.com/36bc739c6c69171f88ee.git Common linux signals
+94298e7bc2a2aa65448b git://gist.github.com/94298e7bc2a2aa65448b.git Firefox/Chrome - html5 notepad
+38b41e7a3bb549552cbc git://gist.github.com/38b41e7a3bb549552cbc.git ansible basics
+99d3938abe6cc99bb3de git://gist.github.com/99d3938abe6cc99bb3de.git ssh-agent tricks
+b92ad1450067bf4336ee git://gist.github.com/b92ad1450067bf4336ee.git ssh key / fingerprint tricks
+0dca25825d9f2608714b git://gist.github.com/0dca25825d9f2608714b.git VIM SHORTCUTS
+9fa3ee886f3a29dd8717 git://gist.github.com/9fa3ee886f3a29dd8717.git 
+b62dc3351732615f9e86 git://gist.github.com/b62dc3351732615f9e86.git PROFTPD - SFTP CONFIGURATION
+d03955fcb3a120f63dd5 git://gist.github.com/d03955fcb3a120f63dd5.git 
+c40c7eedacbeeaca4dfb git://gist.github.com/c40c7eedacbeeaca4dfb.git Hard reset server via Remote CLI
+84f10dcc0a0a73fd366d git://gist.github.com/84f10dcc0a0a73fd366d.git openssl certificate expiry date
+28c2c7367a9d315ff24b git://gist.github.com/28c2c7367a9d315ff24b.git Bash hash trick with compgen for rpmbuilds
+9ac030cb0d707bb446c7 git://gist.github.com/9ac030cb0d707bb446c7.git tcpdump - reading tcp flags 
+60051ac67c5f0445efee git://gist.github.com/60051ac67c5f0445efee.git Bash keyboard shortcuts
+676191d09485fc66de06 git://gist.github.com/676191d09485fc66de06.git kickstart post reboot puppet bootstrap script
+5923f7a81b17ab213663 git://gist.github.com/5923f7a81b17ab213663.git 
+593f35f297f8b619a470 git://gist.github.com/593f35f297f8b619a470.git openssh proxy tricks
+9d5f748e172d4e7dbfac git://gist.github.com/9d5f748e172d4e7dbfac.git lvm extend tips
+659853500c8a92303c7f git://gist.github.com/659853500c8a92303c7f.git openssl tricks
+2767954b71b8e774e086 git://gist.github.com/2767954b71b8e774e086.git sync apache configs/ via git and www folders between nodes
+838dbc4b1464615a016c git://gist.github.com/838dbc4b1464615a016c.git apache vhost url redirection tricks
+7f313cffcebae078d362 git://gist.github.com/7f313cffcebae078d362.git apache mod_proxy ssl vhost with location based access
+a350767f32038121d7ee git://gist.github.com/a350767f32038121d7ee.git ruby remove nth object by object_id from array
+5e60f3ad662bdfb0f8a3 git://gist.github.com/5e60f3ad662bdfb0f8a3.git ruby block proc and lambda example
+39b9f6b1db38cc617ac0 git://gist.github.com/39b9f6b1db38cc617ac0.git ruby lambda fun
+be4f930a8b055ac932ea git://gist.github.com/be4f930a8b055ac932ea.git ruby manipulate array with map
+080fe5f0db2c57a9e4b3 git://gist.github.com/080fe5f0db2c57a9e4b3.git ping scan a subnet quickly
+e115da8f1645291e5068 git://gist.github.com/e115da8f1645291e5068.git 
+a3a45d7ab64bf96143e0 git://gist.github.com/a3a45d7ab64bf96143e0.git Useful Git Commands
+eb85fd230695187a5d21 git://gist.github.com/eb85fd230695187a5d21.git puppet precomit linting
+16d586f125c0e2640f26 git://gist.github.com/16d586f125c0e2640f26.git Centos-updates x86_64 Mirror via wget behind proxy
+409953c8d9941d36781b git://gist.github.com/409953c8d9941d36781b.git Get IP/MAC from ifconfig using sed
