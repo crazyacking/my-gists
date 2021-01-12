@@ -1,0 +1,17 @@
+.vagrant
+.vscode
+*.swp
+venv/
+*.pyc
+*.retry
+**/vagrant_ansible_inventory
+**/images.manifest.prev
+.idea
+.tox
+.cache
+*.bak
+*.tfstate
+*.tfstate.backup
+.terraform/
+.bash*
+.DS_Store
